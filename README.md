@@ -43,6 +43,14 @@ Conference: The IEEE INTELLIGENT VEHICLES SYMPOSIUM ([IV 2025](https://ieee-iv.o
 
 ### Comparison with Hybrid A*
 
+<table>
+  <tr>
+    <td align="center"> <img src="./imgs/A_4.gif" width="300" alt="img"> </td>
+    <td align="center"> <img src="./imgs/A_M_4.gif" width="300" alt="img"> </td>
+    <td align="center"> <img src="./imgs/RL_4.gif" width="300" alt="img"> </td>
+  </tr>
 
+
+</table>
 
 
