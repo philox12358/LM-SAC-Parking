@@ -41,15 +41,19 @@ Conference: The IEEE INTELLIGENT VEHICLES SYMPOSIUM ([IV 2025](https://ieee-iv.o
 </table>
 
 
-### Comparison with Hybrid A*
+### Comparison of different algorithms in the same scenario
 
 <table>
   <tr>
-    <td align="center"> <img src="./imgs/A_4.gif" width="300" alt="img"> </td>
-    <td align="center"> <img src="./imgs/A_M_4.gif" width="300" alt="img"> </td>
-    <td align="center"> <img src="./imgs/RL_4.gif" width="300" alt="img"> </td>
+    <td align="center"> A* 6-nodes </td>
+    <td align="center"> A* 10-nodes </td>
+    <td align="center"> LM-SAC </td>
   </tr>
-
+  <tr>
+    <td align="center"> <img src="./imgs/A_4.gif" width="250" alt="img"> </td>
+    <td align="center"> <img src="./imgs/A_M_4.gif" width="250" alt="img"> </td>
+    <td align="center"> <img src="./imgs/RL_4.gif" width="250" alt="img"> </td>
+  </tr>
 
 </table>
 
