@@ -1,6 +1,13 @@
 # Reinforcement_Learning_Parking_LM-SAC
-Performance of paper "Advancing Narrow Space Parking with Latent Memory-Based Reinforcement Learning" 
+Paper: Advancing Narrow Space Parking with Latent Memory-Based Reinforcement Learning
 
+### Method Display
+
+<div align="center">
+  <img src="./imgs/method.gif" alt="gif" width="450">
+</div>
+
+### Performance in several different scenarios
 <div align="center">
   <img src="./imgs/9.gif" alt="gif" width="450">
 </div>
