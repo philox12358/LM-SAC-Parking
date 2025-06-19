@@ -46,7 +46,7 @@ Conference: The IEEE INTELLIGENT VEHICLES SYMPOSIUM ([IV 2025](https://ieee-iv.o
 <table>
   <tr>
     <td align="center"> A* 6-nodes </td>
-    <td align="center"> A* 10-nodes </td>
+    <td align="center"> A* more-nodes </td>
     <td align="center"> LM-SAC </td>
   </tr>
   <tr>
