@@ -6,7 +6,7 @@ Conference: The IEEE INTELLIGENT VEHICLES SYMPOSIUM ([IV 2025](https://ieee-iv.o
 ### Method Display
 
 <div align="center">
-  <img src="./imgs/Our method.gif" alt="gif" width="450">
+  <img src="./imgs/Our method.gif" alt="gif" width="400">
 </div>
 
 ### Contributions
@@ -18,31 +18,33 @@ Conference: The IEEE INTELLIGENT VEHICLES SYMPOSIUM ([IV 2025](https://ieee-iv.o
 
 
 ### Performance in several different scenarios
+<div align="center">
 <table>
   <tr>
-    <td align="center"> <img src="./imgs/4.gif" width="200" alt="img"> </td>
-    <td align="center"> <img src="./imgs/6.gif" width="200" alt="img"> </td>
-    <td align="center"> <img src="./imgs/8.gif" width="200" alt="img"> </td>
-    <td align="center"> <img src="./imgs/10.gif" width="200" alt="img"> </td>
+    <td align="center"> <img src="./imgs/4.gif" width="190" alt="img"> </td>
+    <td align="center"> <img src="./imgs/6.gif" width="190" alt="img"> </td>
+    <td align="center"> <img src="./imgs/8.gif" width="190" alt="img"> </td>
+    <td align="center"> <img src="./imgs/10.gif" width="190" alt="img"> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="./imgs/9.gif" width="200" alt="img"> </td>
-    <td align="center"> <img src="./imgs/9_radical.gif" width="200" alt="img"> </td>
-    <td align="center"> <img src="./imgs/11.gif" width="200" alt="img"> </td>
-    <td align="center"> <img src="./imgs/12.gif" width="200" alt="img"> </td>
+    <td align="center"> <img src="./imgs/9.gif" width="190" alt="img"> </td>
+    <td align="center"> <img src="./imgs/9_radical.gif" width="190" alt="img"> </td>
+    <td align="center"> <img src="./imgs/11.gif" width="190" alt="img"> </td>
+    <td align="center"> <img src="./imgs/12.gif" width="190" alt="img"> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="./imgs/14.gif" width="200" alt="img"> </td>
-    <td align="center"> <img src="./imgs/18.gif" width="200" alt="img"> </td>
-    <td align="center"> <img src="./imgs/20.gif" width="200" alt="img"> </td>
-    <td align="center"> <img src="./imgs/21.gif" width="200" alt="img"> </td>
+    <td align="center"> <img src="./imgs/14.gif" width="190" alt="img"> </td>
+    <td align="center"> <img src="./imgs/18.gif" width="190" alt="img"> </td>
+    <td align="center"> <img src="./imgs/20.gif" width="190" alt="img"> </td>
+    <td align="center"> <img src="./imgs/21.gif" width="190" alt="img"> </td>
   </tr>
 
 </table>
-
+</div>
 
 ### Comparison of different algorithms in the same scenario
 
+<div align="center">
 <table>
   <tr>
     <td align="center"> A* 6-nodes </td>
@@ -56,5 +58,5 @@ Conference: The IEEE INTELLIGENT VEHICLES SYMPOSIUM ([IV 2025](https://ieee-iv.o
   </tr>
 
 </table>
-
+</div>
 
