@@ -1,7 +1,7 @@
 # Reinforcement_Learning_Parking_LM-SAC
-Paper: Advancing Narrow Space Parking with Latent Memory-Based Reinforcement Learning
+**Paper**:  [Advancing Narrow Space Parking with Latent Memory-Based Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/11097572)
 
-Conference: The IEEE INTELLIGENT VEHICLES SYMPOSIUM ([IV 2025](https://ieee-iv.org/2025/))
+**Conference**:  The IEEE INTELLIGENT VEHICLES SYMPOSIUM ([IV 2025](https://ieee-iv.org/2025/))
 
 ### Method Display
 
@@ -59,4 +59,19 @@ Conference: The IEEE INTELLIGENT VEHICLES SYMPOSIUM ([IV 2025](https://ieee-iv.o
 
 </table>
 </div>
+
+
+## Bibtex
+If this work is helpful for your research, please consider citing the following BibTeX entry.
+```bibtex
+@inproceedings{zhong2025advancing,
+  title={Advancing Narrow Space Parking with Latent Memory-Based Reinforcement Learning},
+  author={Zhong, Yilin and Gan, Shun and Fan, Bo and Cheng, Jun and Chen, Tao and Shi, Qian},
+  booktitle={2025 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={2273--2280},
+  year={2025},
+  organization={IEEE}
+}
+```
+
 
