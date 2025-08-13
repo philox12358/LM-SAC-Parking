@@ -10,14 +10,14 @@
 </div>
 
 ### Contributions
-- A Latent Memory-Based Soft Actor-Critic (LM-SAC) algorithm was proposed, which leverages latent memory to implicitly store contextual information during the parking process, enabling the agent to precisely maneuver in confined spaces.
-- A Progressive Milestone Training (PMT) method is developed that decomposes the task into a series of intermediate subtasks and integrates curriculum learning to enhance the training efficiency.
-- A customized virtual parking environment tailored for narrow spaces was proposed. Surrounding obstacle information is encoded using Virtual-LiDAR Detection (VLD), which significantly reduces the input dimensionality and is compatible with various perception formats.
+- A Latent Memory-Based Soft Actor-Critic (**LM-SAC**) algorithm was proposed, which leverages latent memory to implicitly store contextual information during the parking process, enabling the agent to precisely maneuver in confined spaces.
+- A Progressive Milestone Training (**PMT**) method is developed that decomposes the task into a series of intermediate subtasks and integrates curriculum learning to enhance the training efficiency.
+- A customized virtual parking environment tailored for narrow spaces was proposed. Surrounding obstacle information is encoded using Virtual-LiDAR Detection (**VLD**), which significantly reduces the input dimensionality and is compatible with various perception formats.
 
 
 
 
-### Performance in several different scenarios
+### LM-SAC Performance in different scenarios
 <div align="center">
 <table>
   <tr>
