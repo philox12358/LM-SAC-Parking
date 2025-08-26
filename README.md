@@ -61,8 +61,8 @@
 </div>
 
 
-## Bibtex
-If this work is helpful for your research, please consider citing the following BibTeX entry.
+## Citation
+If you find our work useful, please cite us as
 ```bibtex
 @inproceedings{zhong2025advancing,
   title={Advancing Narrow Space Parking with Latent Memory-Based Reinforcement Learning},
